@@ -30,7 +30,7 @@ The major issue is to create a simple Hospital CRM tool and also track the accou
 Once a problem is clearly define, solution will be great through effective communication.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-Keeping hospital records intacts and readily available.
+Keeping hospital records intacts and readily available. Use clear and concise language to ensure your audience understands the problem
 
 ## 11. What are the main features or functionalities that make your software stand out?
 Easy to use. UI/UX, easy to use Dashboards
